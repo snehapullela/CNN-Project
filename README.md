@@ -7,3 +7,11 @@ Section IV : Testing human similairty between two images using DETR and model co
 Section V : Results <br />
 
 The results in the Section V depicts the prediction score of the image pairs along with displaying the similar person that the model detected.
+
+Installation and running the code: <br />
+The code was developed using Google colab. Due to this, installing the required packages has been done in the code. <br />
+1. Launch the notebook using google colab. <br />
+2. Import the data to the google drive <br />
+3. Establish connecteion between the drive and google colab <br />
+4. Then execute the code.
+
