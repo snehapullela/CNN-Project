@@ -12,6 +12,6 @@ Installation and running the code: <br />
 The code was developed using Google colab. Due to this, installing the required packages has been done in the code. <br />
 1. Launch the notebook using google colab. <br />
 2. Import the data to the google drive <br />
-3. Establish connection between the drive and google colab <br />
+3. Establish connection between the drive and google colab(Code present in the jupyter notebook) <br />
 4. Then execute the code.
 
