@@ -6,6 +6,8 @@ Section III : Object Detection model using DETR <br />
 Section IV : Testing human similairty between two images using DETR and model constrctucted in Section II <br />
 Section V : Results <br />
 
+Reference to the dataset on kaggle : https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset
+
 The results in the Section V depicts the prediction score of the image pairs along with displaying the similar person that the model detected.
 
 Installation and running the code: <br />
